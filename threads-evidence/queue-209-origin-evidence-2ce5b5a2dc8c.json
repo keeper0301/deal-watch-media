@@ -1,0 +1,55 @@
+{
+  "evidence_kind": "origin_evidence_card",
+  "external_posting": false,
+  "generated_at": "2026-09-27T15:21:12.267833+00:00",
+  "height": 1350,
+  "image_path": "queue-209-origin-evidence-2ce5b5a2dc8c.png",
+  "image_sha256": "34304e66a5e070b9cbf3893c5215fb2bd93daf7b0ab5ba288a2ccf5cea450644",
+  "mode": "threads_origin_evidence_card",
+  "spec": {
+    "checked_date": "2026-09-28",
+    "disclaimer": "원재료·원산지는 리뉴얼될 수 있으니 구매 전 실제 포장지 표시를 최종 확인하세요.",
+    "headline": "구매 전에 원재료표 체크",
+    "product_name": "곡물도감 국산 21곡 서리태 가득 콩물두유",
+    "queue_id": 209,
+    "report_number": "20070464034259",
+    "schema_version": 1,
+    "source_refs": [
+      "식품안전나라 품목제조보고번호 20070464034259",
+      "https://origincare.co.kr/product/g/50/category/87/display/1/",
+      "https://mukscan.com/p/20070464034259/곡물도감-21곡-서리태-가득-콩물두유"
+    ],
+    "summary_lines": [
+      "검은콩두유액의 검은콩 100% 국내산",
+      "21곡 혼합분말의 21종 곡물 100% 국내산"
+    ],
+    "verified_labels": [
+      "검은콩(국산)",
+      "현미(국산)",
+      "찰현미(국산)",
+      "보리(국산)",
+      "찰보리(국산)",
+      "백태(국산)",
+      "흑태(국산)",
+      "흑미(국산)",
+      "옥수수(국산)",
+      "밀(국산)",
+      "율무(국산)",
+      "기장(국산)",
+      "수수(국산)",
+      "조(국산)",
+      "차조(국산)",
+      "대두(국산)",
+      "팥(국산)",
+      "녹두(국산)",
+      "완두(국산)",
+      "강낭콩(국산)",
+      "메밀(국산)",
+      "땅콩(국산)"
+    ]
+  },
+  "spec_fingerprint": "2ce5b5a2dc8c46e794e1f561d84a65472eaaecd6146f2429326a51f805deba2c",
+  "spec_fingerprint_short": "2ce5b5a2dc8c",
+  "verification_method": "manual_source_crosscheck",
+  "width": 1080
+}
